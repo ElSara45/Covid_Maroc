@@ -1,5 +1,4 @@
 Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Incident_Rate,People_Tested,People_Hospitalized,Mortality_Rate,UID,ISO3
-Maroc,,32.762205,-6.789156,5505,183,2124,3198,,,,,,
 Daraa-Tafilalt,,31.330785,-5.188366,557,0,2,0,17,0,,,,
 Dakhla,,23.667962,-15.450615,2,0,0,0,1,0,,,,
 Guelmim,,28.988164,-10.058907,41,0,0,0,1,0,,,,
